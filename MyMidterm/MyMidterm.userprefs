@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{63F817C4-34F3-4DA1-9E6F-BC699952BC28}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyMidterm/Models/Item.cs">
+    <Files>
+      <File FileName="MyMidterm/Models/Order.cs" Line="12" Column="5" />
+      <File FileName="MyMidterm/Models/Customer.cs" Line="7" Column="19" />
+      <File FileName="MyMidterm/Models/Route.cs" Line="4" Column="19" />
+      <File FileName="MyMidterm/Models/Category.cs" Line="4" Column="19" />
+      <File FileName="MyMidterm/Models/Item.cs" Line="40" Column="38" />
+      <File FileName="MyMidterm/Models/Storage.cs" Line="6" Column="19" />
+      <File FileName="MyMidterm/Models/Pair.cs" Line="5" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MyMidterm PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
